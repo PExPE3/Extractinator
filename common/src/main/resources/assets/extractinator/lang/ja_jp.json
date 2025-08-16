@@ -5,10 +5,14 @@
   "block.extractinator.slush": "軟氷",
   "emi.category.extractinator.extractinator": "Extractinator",
   "text.extractinator.drop_chance": "ドロップ率 : %s%%",
-  "text.resourcefulconfig.extractinator.option.extractTicks": "抽出ティック",
-  "text.resourcefulconfig.extractinator.option.extractTicks.tooltip": "鉱石抽出機が1つのブロックから抽出する時間",
-  "text.resourcefulconfig.extractinator.option.extractinatorDurability": "抽出機の耐久値",
-  "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "鉱石抽出機が壊れるまでの使用量",
-  "text.resourcefulconfig.extractinator.option.lootMultiplier": "ドロップ倍率",
-  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "ドロップする量をこの値で倍増させる"
+  "text.resourcefulconfig.extractinator.option.extractTicks": "抽出時間（ティック）",
+  "text.resourcefulconfig.extractinator.option.extractTicks.tooltip": "鉱石抽出機が1ブロックを抽出するのにかかる時間",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability": "鉱石抽出機の耐久度",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "鉱石抽出機が壊れるまでの使用回数",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier": "戦利品倍率",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "ドロップする戦利品の量をこの値で倍率化します",
+  "text.resourcefulconfig.extractinator.option.silent": "静音",
+  "text.resourcefulconfig.extractinator.option.silent.tooltip": "鉱石抽出機を無音にするかどうか",
+  "text.resourcefulconfig.extractinator.option.worldgen": "ワールド生成",
+  "text.resourcefulconfig.extractinator.option.worldgen.tooltip": "[Fabric専用] 泥土と軟氷の鉱石を生成します"
 }
